@@ -3,7 +3,8 @@ Integrantes: Guillermo Schroeder
 
 Rol: developer
 
-Problema: falta de automatizacion del pago de gastos comunes del edifico miraflores y los residentes deben poder saber su situacion en el sistema
+Problema: El edifico miraflores le falta automatizacion del pago de gastos comunes del edifico miraflores 
+y los residentes deben poder consultar y/o saber su situacion en el sistema
 
 Solucion: se desarollo un software de modalidad modularpara generar informes y revisar informacion del pago de gastos comunes
 
